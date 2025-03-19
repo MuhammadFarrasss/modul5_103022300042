@@ -1,3 +1,4 @@
+
 class SimpleDataBase<T> {
         private List<T> storeData;
         private List<DateTime> inputDate;
